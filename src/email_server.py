@@ -2,7 +2,7 @@ from email.message import EmailMessage
 import smtplib
 import ssl
 from datetime import datetime
-
+#rechnaged it back
 EMAIL_SENDER = "xayari229@gmail.com"
 EMAIL_PASSWORD = "rkoa zvwu nqnj nifo"
 EMAIL_RECEIVER = "xayari229@gmail.com"
